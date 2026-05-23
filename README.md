@@ -4,11 +4,15 @@ A RAG (Retrieval-Augmented Generation) powered chatbot that lets you upload any 
 
 ---
 
-## 🚀 Demo
+## 🚀 Live Demo
+
+🤗 **Try it live on Hugging Face Spaces:**
+
+[![Hugging Face Spaces](https://img.shields.io/badge/🤗%20Hugging%20Face-Spaces-blue)](https://huggingface.co/spaces/vishnuvardhanreddy12/rag-pdf-chatbot)
+
+👉 [https://huggingface.co/spaces/vishnuvardhanreddy12/rag-pdf-chatbot](https://huggingface.co/spaces/vishnuvardhanreddy12/rag-pdf-chatbot)
 
 > Upload a PDF → Ask questions → Get instant, context-aware answers.
-
-![PDF Q&A Chatbot](screenshot.png)
 
 ---
 
